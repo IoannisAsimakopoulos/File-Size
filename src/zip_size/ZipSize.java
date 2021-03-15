@@ -64,7 +64,7 @@ public class ZipSize extends javax.swing.JFrame {
 
         jTextField1.setFont(new java.awt.Font("Tahoma", 0, 21)); // NOI18N
         jTextField1.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField1.setText("Επιλέξτε  αρχείο για μετατροπή");
+        jTextField1.setText("Επιλέξτε  αρχείο για επιστροφή του μεγέθους του");
         jTextField1.setBorder(javax.swing.BorderFactory.createEmptyBorder(1, 1, 1, 1));
         jTextField1.setCaretColor(new java.awt.Color(255, 255, 204));
         jTextField1.setDisabledTextColor(new java.awt.Color(255, 255, 204));
@@ -105,7 +105,7 @@ public class ZipSize extends javax.swing.JFrame {
         });
 
         Final_Button_Enimerosi.setFont(new java.awt.Font("Tahoma", 1, 15)); // NOI18N
-        Final_Button_Enimerosi.setText("Mετατροπή CSV Αρχείου");
+        Final_Button_Enimerosi.setText("Επιστροφή Μεγέθους επιλεγμένου αρχείου");
         Final_Button_Enimerosi.setAutoscrolls(true);
         Final_Button_Enimerosi.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         Final_Button_Enimerosi.setFocusPainted(false);
